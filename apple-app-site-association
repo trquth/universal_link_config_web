@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z646QS57VL.com.hhmt.app",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "Z646QS57VL.com.hhmt.app.staging",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}

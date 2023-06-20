@@ -1,0 +1,26 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hhmt.app",
+      "sha256_cert_fingerprints": [
+        "EB:EB:E7:2E:FF:43:06:84:29:A6:DA:67:41:12:DF:84:04:6C:AF:28:AC:5D:24:7C:07:BE:84:A1:F4:82:8E:C7",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "75:80:18:60:41:EE:87:A6:14:E8:86:FF:48:65:EA:C6:D6:65:F0:3F:B8:44:5E:0D:31:9C:83:AF:C6:A5:67:CB"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.hhmt.app.staging",
+      "sha256_cert_fingerprints": [
+        "EB:EB:E7:2E:FF:43:06:84:29:A6:DA:67:41:12:DF:84:04:6C:AF:28:AC:5D:24:7C:07:BE:84:A1:F4:82:8E:C7",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "75:80:18:60:41:EE:87:A6:14:E8:86:FF:48:65:EA:C6:D6:65:F0:3F:B8:44:5E:0D:31:9C:83:AF:C6:A5:67:CB"
+      ]
+    }
+  }
+]
